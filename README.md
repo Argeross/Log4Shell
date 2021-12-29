@@ -18,7 +18,7 @@ Demonstracja i omówienie podatności Log4Shell
 Room: https://tryhackme.com/room/solar
 
 ### Zadanie 1.
-Wykonaj wszystkie zadania do podpunktu 4. ("Task 4 - Proof of Concept") włącznie, jako potwierdzenie wykonania zrób zrzut ekranu z komunikatem o tym, iż otrzymano połączenie od maszyny atakowanej ("Connection received from MACHINE_IP").
+Uruchom instancję maszyny i wykonaj wszystkie zadania do podpunktu 4. ("Task 4 - Proof of Concept") włącznie, jako potwierdzenie wykonania zrób zrzut ekranu z komunikatem o tym, iż otrzymano połączenie od maszyny atakowanej ("Connection received from MACHINE_IP").
 
 ### Zadanie 2.
-Wykonaj zadanie 5. ("Task 5 - Exploitation), jako potwierdzenie wykonania zrób zrzut ekranu z rezultatem komendy "whoami && hostname" na atakowanej maszynie. 
+Wykonaj zadanie 5. ("Task 5 - Exploitation), jako potwierdzenie wykonania zrób zrzut ekranu z wynikiem komendy "whoami && hostname" na atakowanej maszynie.
