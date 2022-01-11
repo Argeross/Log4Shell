@@ -21,4 +21,7 @@ Room: https://tryhackme.com/room/solar
 Uruchom instancję maszyny i wykonaj wszystkie zadania do podpunktu 4. ("Task 4 - Proof of Concept") włącznie, jako potwierdzenie wykonania zrób zrzut ekranu z komunikatem o tym, iż otrzymano połączenie od maszyny atakowanej ("Connection received from MACHINE_IP").
 
 ### Zadanie 2.
+
+JDK 8u181: https://aghedupl-my.sharepoint.com/:u:/g/personal/mibart_student_agh_edu_pl/ESCB1uJOHK5BnXJB7nU8i7gB7NDsPus1fSDkp46r9_EPwg?e=z2OFcd
+
 Wykonaj zadanie 5. ("Task 5 - Exploitation), jako potwierdzenie wykonania zrób zrzut ekranu z wynikiem komendy "whoami && hostname" na atakowanej maszynie.
