@@ -22,6 +22,4 @@ Uruchom instancję maszyny i wykonaj wszystkie zadania do podpunktu 4. ("Task 4 
 
 ### Zadanie 2.
 
-Do tego zadania przyda się JDK 8u181: https://aghedupl-my.sharepoint.com/:u:/g/personal/mibart_student_agh_edu_pl/ESCB1uJOHK5BnXJB7nU8i7gB7NDsPus1fSDkp46r9_EPwg?e=z2OFcd
-
 Wykonaj zadanie 5. ("Task 5 - Exploitation), jako potwierdzenie wykonania zrób zrzut ekranu z wynikiem komendy "whoami && hostname" na atakowanej maszynie.
